@@ -1,21 +1,21 @@
 {
-  "name": "soberwp/controller",
+  "name": "darkfoxdeveloper/sage9-controller",
   "type": "package",
   "license": "MIT",
   "description": "WordPress package to enable a basic controller when using Blade with Sage 9",
-  "homepage": "https://github.com/soberwp",
+  "homepage": "https://github.com/darkfoxdeveloper",
   "authors": [
     {
-      "name": "Darren Jacoby",
-      "email": "darren@jacoby.co.za",
-      "homepage": "https://github.com/darrenjacoby"
+      "name": "Cristian Ocaña Soler",
+      "email": "darkfoxdeveloper@gmail.com",
+      "homepage": "https://github.com/darkfoxdeveloper"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/soberwp/controller/issues"
+    "issues": "https://github.com/darkfoxdeveloper/sage9-controller/issues"
   },
   "require": {
     "php": ">=5.6.0",
